@@ -68,7 +68,7 @@ div {
     margin-bottom: 10px;
     font-family: arial;
     font-size: 10px;
-    font-weight: lighter;
+    font-weight: 700;
     transform: scale(1.6);
 
 }
@@ -76,7 +76,7 @@ div {
     text-align: center;
     color: rgb(56, 54, 54);
     font-family: sans-serif;
-
+    font-weight: 700;
 }
 
 .price {
